@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 🔭 I’m currently working on [JuSoft Tasks](https://tasks.jusoft.dev)
-
 - 👨‍💻 All of my projects are available at [http://jsft.be/juhom](http://jsft.be/juhom)
 
 - 📫 How to reach me **juhom205@jusoft.dev**
