@@ -26,3 +26,6 @@
    <a href="https://github.com/jusoftdev/jusoft-tasks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jusoftdev&repo=jusoft-tasks&theme=github_dark " />
   </a>
+  <a href="https://github.com/CraftException/lnkdto.link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jusoftdev&repo=jusoft-tasks&theme=github_dark " />
+  </a>
