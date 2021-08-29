@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://jsft.be/juhom](http://jsft.be/juhom)
 
-- 📫 How to reach me **juhom205@jusoft.dev**
+- 📫 How to reach me **@juhom205 // @jusoftdev on Twitter**
 
 - ⚡ Fun fact **I started coding with writing Mods for Farming Simulator 2015**
 
