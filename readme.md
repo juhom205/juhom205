@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian aka juhom</h1>
 <h3 align="center">15 years | JuSoft Founder | Coding since 2017</h3>
 
-- 🔭 I’m currently working on [Rope Messenger](https://rope.jusoft.dev)
+- 🔭 I’m mainly working on [Rope Messenger](https://rope.jusoft.dev)
 
 - 🌱 I’m currently learning **Go**
 
