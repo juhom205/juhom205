@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **@juhom205 // @jusoftdev on Twitter**
 
-- ⚡ Fun fact **I started coding with writing Mods for Farming Simulator 2015**
+- ⚡ Fun fact **I have written over 700,000 lines of code**
 
 
 <h3 align="left">Languages and Tools:</h3>
