@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julian aka juhom</h1>
-<h3 align="center">15 years | JuSoft Founder | Coding since 2017</h3>
+<h3 align="center">15 years | JuSoft Founder | Codeaholic since 11 y.o.</h3>
 
-- 🔭 I’m mainly working on [Rope Messenger](https://rope.jusoft.dev)
+- 🔭 I’m mainly working on [JuSoft Projects](https://github.com/jusoft.dev)
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [http://jsft.be/juhom](http://jsft.be/juhom)
+- 👨‍💻 My portfolio is available at [https://julianhoffmann.xyz](https://julianhoffmann.xyz)
 
 - 📫 How to reach me **@juhom205 // @jusoftdev on Twitter**
 
