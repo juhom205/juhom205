@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **@juhom205 // @jusoftdev on Twitter**
 
-- ⚡ Fun fact **I have written over 500,000 lines of code**
-
 - ▶️ [Google Play Certified](https://www.credential.net/7372991f-8c1d-48e5-a4ef-37f6c6f3cc23#gs.lv2e24) <br> <img width="128" height="128" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44827308" />
 
 <h3 align="left">LinkedIn Skill Assessements </h3>
