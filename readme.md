@@ -4,7 +4,7 @@
 
 - 🔭 I’m mainly working on [JuSoft Projects](https://github.com/jusoft.dev)
 
-- 🌱 I’m currently learning **Tauri**
+- 🌱 I’m currently learning **Tauri** & **Swift**
 
 - 👨‍💻 My portfolio is available at [https://julianhoffmann.xyz](https://julianhoffmann.xyz)
 
